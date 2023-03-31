@@ -1,1 +1,18 @@
 10 jsons
+
+
+movie booking
+
+ -->3 movies 
+ -->3 screens
+ --> 100, 5
+
+
+doctor appoinmnet
+
+2 doctors avaialble
+stomach ache 2000
+head ache 2500
+
+
+online shopping
