@@ -72,3 +72,12 @@ var data ={
 // find a country which has lowest population
 // find a state which has lowest population
 // find a city which has lowest population
+
+//find a country which has highest population using map
+data.countrie.map((c)=>{
+    c.states.map((s)=>{
+        s.cities.map((ci)=>{
+            console.log(ci.population);
+        })
+    })
+})

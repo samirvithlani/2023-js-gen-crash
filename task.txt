@@ -16,3 +16,19 @@ head ache 2500
 
 
 online shopping
+-------------
+
+
+js asyncrosnous
+hello --> 5 sec
+world
+good
+movie
+
+
+promise:-->
+js promise is class --> data -->error
+3 states
+pending
+resolve / fulfilled
+reject / rejected
